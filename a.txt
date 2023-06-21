@@ -1,1 +1,5 @@
 alteração
+
+code {
+    return: 0;
+}
